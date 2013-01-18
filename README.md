@@ -26,6 +26,11 @@ A collection of minimal wrappers for [hotnetq](http://www.jboss.org/hornetq) ser
 See the stomp
 [example](http://github.com/hugoduncan/hornetq-clj/tree/master/stomp-example/).
 
+## Documnetation
+
+* [HornetQ 2.2.14 User Manual](http://docs.jboss.org/hornetq/2.2.14.Final/user-manual/en/html_single/index.html)
+* [HornetQ 2.2.14 Javadoc](http://docs.jboss.org/hornetq/2.2.14.Final/api/index.html)
+
 ## Installation
 
 ## License
